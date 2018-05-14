@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/luka/Downloads/SmartLock/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/luka/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/085b110b8c576880cc312e175d97afdf/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "875430500964",
+    "firebase_url": "https://smartlock-b077f.firebaseio.com",
+    "project_id": "smartlock-b077f",
+    "storage_bucket": "smartlock-b077f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875430500964:android:21bdd1af0ef7e384",
+        "android_client_info": {
+          "package_name": "com.ontariolegalpool.smartlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875430500964-58rl3gsj2tf05rck9732ja56b2slu28o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ontariolegalpool.smartlock",
+            "certificate_hash": "713d070792aee1b822ac9190dfe493e704d7d1b1"
+          }
+        },
+        {
+          "client_id": "875430500964-8dlqgntlaqeoeftsqqkuvu9iq6utnet5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfF5uGXUMXhLm-y_qdpfPlmPmSF5iGJDg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875430500964-8dlqgntlaqeoeftsqqkuvu9iq6utnet5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
